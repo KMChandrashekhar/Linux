@@ -1,3 +1,4 @@
+Basic Syntex
 echo "Hello World" > devops.txt     //Output of echo "Hello World"  will be stored in devops.txt file .
 man echo                          //man command is used to get information of a particular command . Here i am trying to know more about echo command.
 cat devops.txt | tr a-z A-Z > DEVOPS.txt      //Here it says that for the content of devops.txt , translate each character to upper case and then store it in DEVOPS.txt
