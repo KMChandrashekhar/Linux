@@ -1,13 +1,6 @@
 # 🧩 Kubernetes Crash Course in Kannada (2025)
 
-All Kubernetes YAML manifests and examples used in the **Kubernetes Crash Course in Kannada (2025)** on YouTube.
-
-🎥 **Watch the full video:** [YouTube Link](https://youtu.be/FpeYDZzWPaI)
-
-K8s Document: https://kubernetes.io/docs/home/
-
-Medium : https://medium.com/@iamkeerthik
-
+All Kubernetes YAML manifests and examples used in the **Kubernetes Crash Course 
 ---
 
 ## 🗂️ Index
